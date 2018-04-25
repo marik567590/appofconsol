@@ -14,8 +14,8 @@ namespace appofconsol
         {
 
             Console.WriteLine("Hello World!");
+            Console.WriteLine("This is Marik");
 
-            
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
